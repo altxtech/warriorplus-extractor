@@ -1,0 +1,3 @@
+2023-11-06 19:46:11,360 - __main__ - INFO - Extracting page 1 for method sales
+2023-11-06 19:46:15,552 - __main__ - INFO - Extracting page 2 for method sales
+2023-11-06 19:46:16,311 - __main__ - WARNING - Bad Request for method: sales. Status Code: 400, Message: {"success":0,"errors":{"error_type":"invalid_request_error","param":"key","code":"invalid_key","message":"Invalid query string parameters used to query the API"}}
